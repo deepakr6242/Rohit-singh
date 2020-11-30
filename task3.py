@@ -1,0 +1,11 @@
+a=int(input("enter a number"))
+b=int(input("enter a number"))
+print("a is greater than b")
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a//b)
+print(a%b)
+print(a**b)
+
