@@ -1,9 +1,12 @@
-a=input(int("enter average marks", 70<80))
-b=input(int("enter distinct marks", 80<90))
-c=input(int("enter elite marks)", 90<100)
-        if a<b:
-        print("average marks")
-        if ab<c:
-        print("distinct marks")
-        else:
-          print("elite marks")
+if 70<=80:
+    a=int(input("enter second class marks"))
+    print("second class")
+if 80<=90:
+    b=int(input("enter first class marks"))
+    print("first class")
+if 90<=100:
+    c=int(input("enter distinct marks"))
+    print("distinct class")
+else:
+    print(marks)
+          
