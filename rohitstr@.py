@@ -27,3 +27,7 @@ if statement:
 else:
     print("anything")
                 
+
+	# lEAVE SPACE BEFORE AND AFTER 
+	# DEFINE   VARAIABLES  NT IN LOGIC
+	# meaning vara
